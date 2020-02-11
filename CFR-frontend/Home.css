@@ -1,0 +1,73 @@
+.station{
+    
+    width: 200px;
+    height: 200px;
+    border: 1px dotted red;
+    background-color: azure;
+    color:black;
+    margin-top: 100px;
+    margin-left: 100px;
+    font-size: 30px;
+    cursor:pointer;
+}
+
+.locomotive{
+     width: 200px;
+    height: 200px;
+    border: 1px dotted red;
+    background-color: azure;
+    color:black;
+    margin-top: 200px;
+    margin-left: 200px;
+    font-size: 30px;
+    cursor:pointer;
+}
+
+.vagon{
+       width: 200px;
+    height: 200px;
+    border: 1px dotted red;
+    background-color: azure;
+    color:black;
+    margin-top: 200px;
+    margin-left: 200px;
+    font-size: 30px;
+    cursor:pointer;
+}
+
+.trenuri{
+       width: 200px;
+    height: 200px;
+    border: 1px dotted red;
+    background-color: azure;
+    color:black;
+    margin-top: 200px;
+    margin-left: 200px;
+    font-size: 30px;
+    cursor:pointer;
+}
+
+
+.bilete{
+       width: 200px;
+    height: 200px;
+    border: 1px dotted red;
+    background-color: azure;
+    color:black;
+    margin-top: 200px;
+    margin-left: 200px;
+    font-size: 30px;
+    cursor:pointer;
+}
+
+.trasee{
+       width: 200px;
+    height: 200px;
+    border: 1px dotted red;
+    background-color: azure;
+    color:black;
+    margin-top: 200px;
+    margin-left: 200px;
+    font-size: 30px;
+    cursor:pointer;
+}

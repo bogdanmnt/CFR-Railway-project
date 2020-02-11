@@ -1,0 +1,34 @@
+#remove{
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    color:white;
+}
+
+.tabel{
+    
+    margin: 0 auto;
+    font-size: 20px;
+    border: 1px;
+    margin-top: 70px;
+    cursor: pointer;
+    text-align: center;
+}
+
+
+#map{
+    height: 80px;
+    width: 100px;
+    position: absolute;
+    bottom:0;
+    
+}
+
+#add{
+       height: 50px;
+    width: 100px;
+    position: absolute;
+    bottom:0;
+    right:0;
+    
+}
